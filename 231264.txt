@@ -1,0 +1,14 @@
+13. git fetch origin
+14. git checkout -b 1-remove-a-task-by-name origin/1-remove-a-task-by-name
+15. go azhurirav kodot za pravata funkcija
+16. git commit -m "remove a task by name dodadena"
+17. git push origin 1-remove-a-task-by-name
+18. napraveno na GitHub
+19. povtoreno
+20. napraveno. nema konflikti
+21. primeteno e
+22. git merge origin/9-mark-all-tasks-in-a-category-as-completed
+23. git pull origin master, git push origin master
+24. primeteno e 
+25. git log --oneline --graph --all > logs.txt. nano 231264.txt
+26.

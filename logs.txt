@@ -1,0 +1,21 @@
+*   32feb50 Merge pull request #12 from nikolatodorovskiiii/9-mark-all-tasks-in-a-category-as-completed
+|\  
+| *   83e2b2d Merge branch 'master' into 9-mark-all-tasks-in-a-category-as-completed
+| |\  
+| |/  
+|/|   
+* |   2ec9b85 Merge pull request #11 from nikolatodorovskiiii/8-mark-a-task-as-completed-by-name
+|\ \  
+| * \   72c175d Merge branch 'master' into 8-mark-a-task-as-completed-by-name
+| |\ \  
+| |/ /  
+|/| |   
+* | |   3068c6b Merge pull request #10 from nikolatodorovskiiii/1-remove-a-task-by-name
+|\ \ \  
+| * | | 1a52a1c remove a task by name dodadena
+|/ / /  
+| * / 5633323 mark a task by name dodadena
+|/ /  
+| * 63cd0e4 dodadena mark all tasks in a category
+|/  
+* c18347f Initial commit
